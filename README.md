@@ -83,8 +83,8 @@ Herramienta de Google para "Grounded AI" (IA fundamentada en *tus* fuentes).
 
 Enlaces mencionados durante la presentación para profundizar:
 
-* **Fundamentos de IA (Google):** [Ver video en YouTube](https://www.youtube.com/watch?v=xnPkEdejc-g)
-* **Conceptos y Aplicaciones (Dot CSV):** [Ver video en YouTube](https://www.youtube.com/watch?v=KytW151dpqU)
+* **Fundamentos de IA (Google):** [Ver video en YouTube](https://www.youtube.com/watch?v=xnPkEDejc-g&fs=1&hl=es)
+* **Conceptos y Aplicaciones (Dot CSV):** [Ver video en YouTube](https://www.youtube.com/watch?v=KytW151dpqU&fs=1&hl=es&t=0)
 
 ---
 
