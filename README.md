@@ -4,26 +4,26 @@
 **Lugar:** TES, Zürich  
 **Temática:** Introducción a la Inteligencia Artificial, Desmitificación y Herramientas Prácticas.
 
-Este repositorio contiene los recursos y notas clave de la sesión "IA para Humanos". [cite_start]El objetivo es pasar de la teoría a la práctica, entendiendo la IA no como magia, sino como una herramienta que requiere estructura y pensamiento crítico[cite: 1].
+Este repositorio contiene los recursos y notas clave de la sesión "IA para Humanos". El objetivo es pasar de la teoría a la práctica, entendiendo la IA no como magia, sino como una herramienta que requiere estructura y pensamiento crítico.
 
 ---
 
 ## 📋 Agenda
 
-1.  [cite_start]**Bases y Desmitificación:** Entender qué es realmente la IA y desmontar mitos[cite: 2].
-2.  [cite_start]**Herramientas y Prompting:** Dominar la fórmula para obtener resultados de calidad[cite: 2].
-3.  [cite_start]**NotebookLM y Futuro:** Crear asistentes personalizados con tus propios datos[cite: 2].
+1.  **Bases y Desmitificación:** Entender qué es realmente la IA y desmontar mitos.
+2.  **Herramientas y Prompting:** Dominar la fórmula para obtener resultados de calidad.
+3.  **NotebookLM y Futuro:** Crear asistentes personalizados con tus propios datos.
 
 ---
 
 ## 🧠 1. ¿Qué es la IA Realmente?
 
 ### Programación Tradicional vs. Machine Learning
-[cite_start]La diferencia fundamental radica en cómo se procesa la información[cite: 6]:
-* [cite_start]**Programación Tradicional:** Reglas explícitas definidas por humanos $\to$ Resultados predecibles[cite: 6].
-* [cite_start]**Machine Learning:** Datos (Ejemplos) $\to$ La máquina encuentra patrones implícitos $\to$ Predicción probabilista[cite: 6].
+La diferencia fundamental radica en cómo se procesa la información:
+* **Programación Tradicional:** Reglas explícitas definidas por humanos → Resultados predecibles.
+* **Machine Learning:** Datos (Ejemplos) → La máquina encuentra patrones implícitos → Predicción probabilista.
 
-> [cite_start]**Implicación Clave:** La IA no sigue instrucciones rígidas como un script antiguo; aprende de ejemplos[cite: 6].
+> **Implicación Clave:** La IA no sigue instrucciones rígidas como un script antiguo; aprende de ejemplos.
 
 ### IA Estrecha (Narrow AI) vs. IA General
 Actualmente, **no existe la IA General**. Trabajamos con "IA Estrecha", que es especialista en dominios específicos (Ajedrez, Visión, Traducción) pero tiene limitaciones claras fuera de su campo.
@@ -72,7 +72,7 @@ Para obtener valor real (10x), un prompt debe dejar de ser vago y pasar a ser es
 
 Herramienta de Google para "Grounded AI" (IA fundamentada en *tus* fuentes).
 
-* **Flujo de trabajo:** Cargar fuentes (PDFs, Webs) $\to$ Hacer preguntas $\to$ Generar Artefactos (Resúmenes, FAQs, Guías).
+* **Flujo de trabajo:** Cargar fuentes (PDFs, Webs) → Hacer preguntas → Generar Artefactos (Resúmenes, FAQs, Guías).
 * **Diferencia Clave:** A diferencia de ChatGPT (conocimiento general), NotebookLM responde **solo** basándose en los documentos que tú subes, reduciendo drásticamente las alucinaciones.
 
 > 🚨 **ADVERTENCIA CRÍTICA:** En NotebookLM **no hay papelera de reciclaje**. Si borras un cuaderno, se elimina permanentemente junto con todo el historial y notas. Haz backups exportando tu contenido regularmente.
@@ -83,8 +83,8 @@ Herramienta de Google para "Grounded AI" (IA fundamentada en *tus* fuentes).
 
 Enlaces mencionados durante la presentación para profundizar:
 
-* [cite_start]**Fundamentos de IA (Google):** [Ver video en YouTube](https://www.youtube.com/watch?v=xnPkEdejc-g) [cite: 4]
-* [cite_start]**Conceptos y Aplicaciones (Dot CSV):** [Ver video en YouTube](https://www.youtube.com/watch?v=KytW151dpqU) [cite: 7]
+* **Fundamentos de IA (Google):** [Ver video en YouTube](https://www.youtube.com/watch?v=xnPkEdejc-g)
+* **Conceptos y Aplicaciones (Dot CSV):** [Ver video en YouTube](https://www.youtube.com/watch?v=KytW151dpqU)
 
 ---
 
