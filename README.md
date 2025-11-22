@@ -6,7 +6,7 @@
 
 Este repositorio contiene los recursos y notas clave de la sesión "IA para Humanos". El objetivo es pasar de la teoría a la práctica, entendiendo la IA no como magia, sino como una herramienta que requiere estructura y pensamiento crítico.
 
-> **📥 [Descargar Presentación Completa (PDF)](IA_intro_221125_pdf.pdf)**
+> **📥 [Descargar Presentación Completa (PDF)]([IA_intro_221125_pdf.pdf](https://github.com/MSc-AGI/TES_IA101_01/blob/main/docs/IA_intro_221125_pdf.pdf))**
 ---
 
 ## 📋 Agenda
